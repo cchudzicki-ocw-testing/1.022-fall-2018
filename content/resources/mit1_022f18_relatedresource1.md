@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-022-introduction-to-network-models-fall-2018/627637d41da838dce0d705e124fed5c0_MIT1_022F18_RelatedResource1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
