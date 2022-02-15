@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Homework2: Centrality Measures'
-type: OCWFile
 uid: e3a93668-c9f8-b615-4875-68d5a90cbc2b
 ---

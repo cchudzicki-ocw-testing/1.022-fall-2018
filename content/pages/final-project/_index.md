@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Projects
 title: Final Project
-type: CourseSection
 uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 ---
 

@@ -9,6 +9,5 @@ parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Other
 title: Default_Project_Data.zip
-type: OCWFile
 uid: 74ce83b3-aab2-05f5-5063-0dcb588eee15
 ---

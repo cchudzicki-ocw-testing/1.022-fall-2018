@@ -6,7 +6,6 @@ parent_title: Final Project
 parent_type: CourseSection
 parent_uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 title: Controlling Epidemics on Networks
-type: CourseSection
 uid: 99a4e4a0-d2f7-3d06-dbcb-cfd2d07e14c5
 ---
 

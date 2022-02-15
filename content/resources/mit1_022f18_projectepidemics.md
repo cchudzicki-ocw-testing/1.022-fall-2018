@@ -9,6 +9,5 @@ parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Document
 title: '1.022F18 Final Project: Controlling Epidemics on Networks'
-type: OCWFile
 uid: 7693ccd6-486d-fc15-5456-f407b691e0b1
 ---

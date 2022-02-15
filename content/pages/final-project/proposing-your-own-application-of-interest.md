@@ -6,7 +6,6 @@ parent_title: Final Project
 parent_type: CourseSection
 parent_uid: dbecca52-01f3-8413-20b1-fda5e6c91ec5
 title: Proposing Your Own Application of Interest
-type: CourseSection
 uid: bc823579-a0b2-aa50-9d9e-e51d494a569d
 ---
 
