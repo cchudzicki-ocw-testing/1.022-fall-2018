@@ -28,9 +28,9 @@ Implement a strategy or solution to your research question posed in Part II and 
 
 For the default epidemic project we will provide the dataset, the research question, the model that you should use for the spread of a virus over networks, and the list of the tasks you should perform for each part of the project. You may alternatively propose your own project of interest, contingent on our approval.
 
-For details on the default epidemic project, see {{< resource_link 99a4e4a0-d2f7-3d06-dbcb-cfd2d07e14c5 "Controlling Epidemics on Networks" >}}.  It will give you an idea about the type of the research question and the deliverables.
+For details on the default epidemic project, see {{% resource_link 99a4e4a0-d2f7-3d06-dbcb-cfd2d07e14c5 "Controlling Epidemics on Networks" %}}.  It will give you an idea about the type of the research question and the deliverables.
 
-For details on how to propose your own topic of interest together with some suggestions regarding the alternative topics, see {{< resource_link bc823579-a0b2-aa50-9d9e-e51d494a569d "Proposing Your Own Application of Interest" >}}.
+For details on how to propose your own topic of interest together with some suggestions regarding the alternative topics, see {{% resource_link bc823579-a0b2-aa50-9d9e-e51d494a569d "Proposing Your Own Application of Interest" %}}.
 
 Grading Scheme
 --------------

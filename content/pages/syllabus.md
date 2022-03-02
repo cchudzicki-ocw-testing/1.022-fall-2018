@@ -34,7 +34,7 @@ Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning abou
 
 An [online version](https://www.cs.cornell.edu/home/kleinber/networks-book/) is freely available on Jon Kleinberg's homepage on Cornell University's Department of Computer Science website.
 
-Occasionally we may also use a few additional book chapters and research papers. These can be found in the {{< resource_link b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a "Readings" >}} section.
+Occasionally we may also use a few additional book chapters and research papers. These can be found in the {{% resource_link b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a "Readings" %}} section.
 
 Grading
 -------
@@ -82,7 +82,7 @@ Final Project
 
 {{< tableclose >}}
 
-For more information on the activities above, see the {{< resource_link 79eb2273-7a39-6156-382c-dce20b0c04b6 "Assignments" >}} and {{< resource_link dbecca52-01f3-8413-20b1-fda5e6c91ec5 "Final Project" >}} sections. 
+For more information on the activities above, see the {{% resource_link 79eb2273-7a39-6156-382c-dce20b0c04b6 "Assignments" %}} and {{% resource_link dbecca52-01f3-8413-20b1-fda5e6c91ec5 "Final Project" %}} sections. 
 
 Collaboration Policy
 --------------------
