@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1_022_F18 Homework6: Romeo Juliet'
 uid: dc67242c-873d-1c15-7f11-7fd665e9cc35
+video_metadata:
+  youtube_id: null
 ---

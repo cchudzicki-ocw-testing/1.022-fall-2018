@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Default_Project_Data.zip
 uid: 74ce83b3-aab2-05f5-5063-0dcb588eee15
+video_metadata:
+  youtube_id: null
 ---

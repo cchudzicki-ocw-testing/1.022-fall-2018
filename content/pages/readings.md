@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a
+video_metadata:
+  youtube_id: null
 ---
 
 \[E\] = Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PAfrontcover#v=onepage&q&f=false)\]

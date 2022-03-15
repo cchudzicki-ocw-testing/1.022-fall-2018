@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Homework4: Random Graph Models'
 uid: a03b3758-f9cd-06d6-360d-9971fa26824a
+video_metadata:
+  youtube_id: null
 ---

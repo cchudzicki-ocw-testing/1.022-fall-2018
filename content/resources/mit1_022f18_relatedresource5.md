@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Related Resource 5: Python Resources'
 uid: 4164c023-5118-11b7-d88e-2be84d0a8138
+video_metadata:
+  youtube_id: null
 ---

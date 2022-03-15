@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Homework4Notebook.ipynb
 uid: 3c5f898b-f65e-5914-4174-55104ca4659d
+video_metadata:
+  youtube_id: null
 ---

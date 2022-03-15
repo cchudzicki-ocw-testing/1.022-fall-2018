@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Related Resource 6: Useful Resources'
 uid: d548b49c-43de-19a3-b919-5d9177fe166d
+video_metadata:
+  youtube_id: null
 ---

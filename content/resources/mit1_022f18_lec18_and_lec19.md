@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lectures 18 and 19: Learning and Herding '
 uid: 6a65a98b-d415-d646-ddbf-0e815f63ac74
+video_metadata:
+  youtube_id: null
 ---

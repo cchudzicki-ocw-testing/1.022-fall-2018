@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Homework3: Erdos Renyi Graphs'
 uid: 6c263540-2d5d-d798-7a27-daecbf6b53dd
+video_metadata:
+  youtube_id: null
 ---

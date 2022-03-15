@@ -12,4 +12,6 @@ resourcetype: Document
 title: 'Lectures 22 and 23: Introduction to Game Theory II / Application of Game Theory
   to Networks'
 uid: c77eb253-a955-cf6e-3b4d-bb3e7b733b02
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022F18 Final Project: Controlling Epidemics on Networks'
 uid: 7693ccd6-486d-fc15-5456-f407b691e0b1
+video_metadata:
+  youtube_id: null
 ---

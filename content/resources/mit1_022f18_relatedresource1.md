@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Related Resource 1: Probability Review'
 uid: 627637d4-1da8-38dc-e0d7-05e124fed5c0
+video_metadata:
+  youtube_id: null
 ---

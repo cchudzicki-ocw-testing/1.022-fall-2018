@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Homework7: Herding Experiment'
 uid: de40e8b5-471a-da25-6a9c-f7625a21b487
+video_metadata:
+  youtube_id: null
 ---

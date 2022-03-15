@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13 and Lecture 14: Linear Dynamical Systems'
 uid: cd237408-6f73-7277-0afd-26d65d51d29f
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.022_F18 Related Resource 4: Spectral Theorem Example'
 uid: c85b4509-bb17-3360-f028-a6bc4f983476
+video_metadata:
+  youtube_id: null
 ---
