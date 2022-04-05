@@ -53,7 +53,7 @@ _Related resources:_
 
 {{% resource_link 5cf1ba92-3896-808f-eff4-878e2c041a6e "primaryschool.csv" %}}
 
-[Zachary's Karate Club dataset.txt](./resolveuid/7c4139562027064f0ad1a42a08ad0ec7)
+{{% resource_link "7c413956-2027-064f-0ad1-a42a08ad0ec7" "Zachary's Karate Club dataset.txt" %}}
 
 
 {{< tdclose >}}
