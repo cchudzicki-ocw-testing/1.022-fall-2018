@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-022-introduction-to-network-models-fall-2018/c85b4509bb173360f028a6bc4f983476_MIT1_022F18_RelatedResource4.pdf
+file: /courses/1-022-introduction-to-network-models-fall-2018/c85b4509bb173360f028a6bc4f983476_MIT1_022F18_RelatedResource4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

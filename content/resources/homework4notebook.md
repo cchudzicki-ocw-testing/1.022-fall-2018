@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
+file: /courses/1-022-introduction-to-network-models-fall-2018/3c5f898bf65e5914417455104ca4659d_Homework4Notebook.ipynb
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
