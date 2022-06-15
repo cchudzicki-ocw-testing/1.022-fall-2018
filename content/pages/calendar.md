@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course calendar and key due dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
