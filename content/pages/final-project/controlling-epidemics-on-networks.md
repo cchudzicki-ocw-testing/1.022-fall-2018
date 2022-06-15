@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details on the default epidemic project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
